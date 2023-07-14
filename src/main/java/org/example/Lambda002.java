@@ -121,7 +121,7 @@ public class Lambda002 {
          end = System.currentTimeMillis();
         System.out.println("end = " + ((end-start)/1000));
 
-
+// git commit
     }
 
     public static Integer getA(int a , Function<Integer,Integer> function){
